@@ -62,3 +62,14 @@ If using report-uri.io, view the reports on report-uri.io
 
     https://report-uri.io/account/csp_real_time/
     https://report-uri.io/account/csp_reports/
+
+## Essential Reading
+
+* http://www.html5rocks.com/en/tutorials/security/content-security-policy/
+
+* https://www.tollmanz.com/content-security-policy-report-samples/
+
+* https://blog.twitter.com/2011/improving-browser-security-with-csp
+
+
+
