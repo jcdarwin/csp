@@ -54,7 +54,7 @@ Visit our site:
 
 View the active mixed content page in a browser, and look for errors in the dev tools
 
-    https://csp.ngrok.com/html/active.html
+    https://csp.ngrok.com/active
 
 If using ngrok, view the reports in the console.
 
@@ -70,6 +70,3 @@ If using report-uri.io, view the reports on report-uri.io
 * https://www.tollmanz.com/content-security-policy-report-samples/
 
 * https://blog.twitter.com/2011/improving-browser-security-with-csp
-
-
-
