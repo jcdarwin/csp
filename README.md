@@ -70,3 +70,5 @@ If using report-uri.io, view the reports on report-uri.io
 * https://www.tollmanz.com/content-security-policy-report-samples/
 
 * https://blog.twitter.com/2011/improving-browser-security-with-csp
+
+* http://sharovatov.github.io/posts/2014-05-mixed-security-content.html
